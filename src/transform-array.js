@@ -1,7 +1,7 @@
 const CustomError = require("../extensions/custom-error");
 
-module.exports = function transform( arr ) {
-  let arr = array.concat()
+module.exports = function transform( array ) {
+  arr = array.concat()
 
   if( Array.isArray === false ) {
     throw new Error()
